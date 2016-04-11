@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\lib\inc -I.\user -I.\SYSTEM -I.\pixelC_hardware -I.\Moduel -I.\pixelC_hardware\pixelC_HW_SDcard_FATFS0.09a -I.\SOLGUI -I.\SOLGUI\Font -I "F:\STM32\keil mdk\MDK\ARM\INC" -I "F:\STM32\keil mdk\MDK\ARM\INC\ST\STM32F10x" -o ".\output\_font6x8.o" --omf_browse ".\output\_font6x8.crf" --depend ".\output\_font6x8.d" "SOLGUI\Font\_Font6x8.c"
